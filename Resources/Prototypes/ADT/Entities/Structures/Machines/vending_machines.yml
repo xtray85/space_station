@@ -13,9 +13,9 @@
   - type: Advertise
     pack: ClothesMateAds
   - type: Speech
-  - type: Tag
-    tags:
-      - DroneUsable
+  # - type: Tag
+  #   tags:
+  #     - DroneUsable
   - type: Sprite
     sprite: ADT/Structures/Machines/VendingMachines/prazatomat.rsi
     layers:
@@ -46,9 +46,9 @@
   #- type: Advertise
   #  pack: ClothesMateAds
   - type: Speech
-  - type: Tag
-    tags:
-      - DroneUsable
+  # - type: Tag
+  #   tags:
+  #     - DroneUsable
   - type: Sprite
     sprite: ADT/Structures/Machines/VendingMachines/halloweenmat.rsi
     layers:
@@ -80,9 +80,9 @@
   #- type: Advertise
   #  pack: ClothesMateAds
   - type: Speech
-  - type: Tag
-    tags:
-      - DroneUsable
+  # - type: Tag
+  #   tags:
+  #     - DroneUsable
   - type: Sprite
     sprite: ADT/Structures/Machines/VendingMachines/newyearmate.rsi
     layers:
@@ -150,9 +150,9 @@
   - type: Advertise
     pack: ClothesMateAds
   - type: Speech
-  - type: Tag
-    tags:
-      - DroneUsable
+  # - type: Tag
+  #   tags:
+  #     - DroneUsable
   - type: Sprite
     sprite: ADT/Structures/Machines/VendingMachines/mastersportdrobe.rsi
     layers:
@@ -193,7 +193,6 @@
     radius: 1.8
     energy: 1.6
     color: "#1ca9d4"
-
 
 - type: entity
   parent: VendingMachine
